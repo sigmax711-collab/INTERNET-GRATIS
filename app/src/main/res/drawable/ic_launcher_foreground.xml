@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield -->
+    <path
+        android:fillColor="#07121F"
+        android:pathData="M54,22 L80,36 C80,64 54,86 54,86 C54,86 28,64 28,36 Z"
+        android:strokeColor="#74ACDF"
+        android:strokeWidth="2.5" />
+    
+    <!-- Argentine Sun of May -->
+    <path
+        android:fillColor="#F6B40E"
+        android:pathData="M54,50m-7,0a7,7 0,1 1,14 0a7,7 0,1 1,-14 0" />
+
+    <!-- Cyan Lightning Bolt -->
+    <path
+        android:fillColor="#00F2FF"
+        android:pathData="M58,32 L40,58 L52,58 L48,82 L70,53 L57,53 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1" />
+</vector>

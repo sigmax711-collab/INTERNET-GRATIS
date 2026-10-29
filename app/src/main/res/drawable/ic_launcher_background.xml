@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="108"
+                android:endY="108"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FF02060D" />
+                <item android:offset="0.5" android:color="#FF07121F" />
+                <item android:offset="1.0" android:color="#FF040E1A" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Subtle cyber rings -->
+    <path
+        android:pathData="M54,54m-45,0a45,45 0,1 1,90 0a45,45 0,1 1,-90 0"
+        android:strokeColor="#3374ACDF"
+        android:strokeWidth="1.2" />
+    <path
+        android:pathData="M54,54m-35,0a35,35 0,1 1,70 0a35,35 0,1 1,-70 0"
+        android:strokeColor="#2200F2FF"
+        android:strokeWidth="0.8" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "INTERNET GRATIS",
+  "description": "VPN Personal & Claro CloudFront para Argentina por CesarG con soporte de voz, logs en tiempo real y servidores en la nube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
